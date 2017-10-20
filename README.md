@@ -10,4 +10,4 @@ This repository builds a Docker image for the [Qtum](https://qtum.org/) wallet/n
 
 The main motivation for this image is to build private Qtum [regtest](https://bitcoin.org/en/developer-examples#regtest-mode) environments.  A [regtest](https://bitcoin.org/en/developer-examples#regtest-mode) environment can be used by software developers to experiment developing on the [Qtum blockchain](https://qtum.org/).
 
-Detailed instructions can be found at: TBA.
+This project is based on a clone from crypt0m1nd3r/docker-qtum. Thanks for thet great start this gave me.
